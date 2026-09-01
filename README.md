@@ -134,5 +134,13 @@ Primary risks addressed in the plan include:
 I would next evaluate infrastructure-as-code, longer-duration load testing, richer operational dashboards, comparison with alternative anomaly-detection methods, autoscaling or non-burstable compute options, human approval gates for high-impact mitigation, and multi-region resilience.
 
 ---
+## Full Case Study
 
-**Full case study:** See `AI_Assisted_DDoS_AWS_Portfolio_Final.pdf` for the recruiter-facing technical case study.
+For the complete architecture, testing methodology, security controls, project requirements, risks, and design decisions:
+
+👉 **[View the Technical Case Study PDF](documentation/AI_Assisted_DDoS_AWS_Portfolio_Final.pdf)**
+
+---
+
+**Cybersecurity | AWS | Cloud Security | AI/ML | Systems Engineering**
+
