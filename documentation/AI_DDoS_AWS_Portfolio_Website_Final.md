@@ -34,7 +34,7 @@ The scenario involves a regional power utility experiencing increased distribute
 
 ## Architecture
 
-![AWS DDoS POC Architecture](architecture/architecture.png)
+![AWS DDoS POC Architecture](https://github.com/TechProDavid/AI-DDoS-Anomaly/blob/main/architecture/architecture.png?raw=true)
 
 ### Application Path
 
