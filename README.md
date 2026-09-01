@@ -1,2 +1,3 @@
-# AI-DDoS-Anomaly
-AI/ML, cybersecurity, AWS architecture, SageMaker, DDoS defense, testing, project management
+#AI-DDoS-Anomaly-Detection-AWS
+
+AWS-based AI/ML proof-of-concept architecture for detecting anomalous web traffic and automatically initiating controlled DDoS mitigation.
