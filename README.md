@@ -36,6 +36,14 @@ The scenario involves a regional power utility experiencing increased distribute
 
 ![AWS DDoS POC Architecture](architecture/architecture.png)
 
+## Full Case Study
+
+For the complete architecture, testing methodology, security controls, project requirements, risks, and design decisions:
+
+👉 **[View the Technical Case Study PDF](documentation/AI_Assisted_DDoS_AWS_Portfolio_Final.pdf)**
+
+---
+
 ### Application Path
 
 `Synthetic Users → CloudFront → AWS Shield Standard / AWS WAF → Application Load Balancer → EC2 t3.medium`
@@ -132,13 +140,6 @@ Primary risks addressed in the plan include:
 ## If I Extended the POC
 
 I would next evaluate infrastructure-as-code, longer-duration load testing, richer operational dashboards, comparison with alternative anomaly-detection methods, autoscaling or non-burstable compute options, human approval gates for high-impact mitigation, and multi-region resilience.
-
----
-## Full Case Study
-
-For the complete architecture, testing methodology, security controls, project requirements, risks, and design decisions:
-
-👉 **[View the Technical Case Study PDF](documentation/AI_Assisted_DDoS_AWS_Portfolio_Final.pdf)**
 
 ---
 
