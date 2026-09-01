@@ -31,7 +31,7 @@ Traffic flows through AWS security controls before reaching an EC2-hosted applic
 
 For the complete architecture, testing methodology, security controls, project requirements, risks, and design decisions:
 
-👉 **[View the Technical Case Study PDF](ADD_PDF_LINK_HERE)**
+👉 **[View the Technical Case Study PDF](documentation/AI_Assisted_DDoS_AWS_Portfolio_Final.pdf)**
 
 ---
 
