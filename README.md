@@ -36,6 +36,8 @@ The scenario involves a regional power utility experiencing increased distribute
 
 ![AWS DDoS POC Architecture](architecture/architecture.png)
 
+---
+
 ## Full Case Study
 
 For the complete architecture, testing methodology, security controls, project requirements, risks, and design decisions:
